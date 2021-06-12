@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
+.dark-modal .modal-content {
+    background-color: #292b2c;
+    color: white;
+}
+.dark-modal .close {
+    color: white;
+}
+.light-blue-backdrop {
+    background-color: #5cb3fd;
+}
